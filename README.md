@@ -1,2 +1,2 @@
-# Cafe_com_Dados
+# Cafe com Dados
 Este repositório contém o curso Café com Dados 
